@@ -37,3 +37,4 @@
     <!-- twitter -->
     <a href="https://twitter.com/SergioDiaz90"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
     <a href="https://www.instagram.com/s3.d6/?hl=es-la"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="30px" alt="Instagrma"></a> &nbsp; &nbsp;
+</p>

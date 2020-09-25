@@ -14,15 +14,15 @@
 <div align="center" styles="margin-top: 60px;">
     <h1 align="center" style="font-size: 30px;">Ask me about:</h1> 
     <p align="center">
-        <img width="50px" height="50px" src="assets/python-language-logotype.svg" />
-        <img width="50px" height="50px" src="assets/flask-icon.svg" />
-        <img width="50px" height="50px" src="assets/css-3.svg" />
-        <img width="50px" height="50px" src="assets/sass.svg" />
-        <img width="50px" height="50px" src="assets/PUG.svg" />
-        <img width="50px" height="50px" src="assets/javascript.svg" />
-        <img width="50px" height="50px" src="assets/mysql.svg" />
-        <img width="50px" height="50px" src="assets/shellscript.svg" />
-        <img width="50px" height="50px" src="assets/c_original.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/python-language-logotype.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/flask-icon.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/css-3.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/sass.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/PUG.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/javascript.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/mysql.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/shellscript.svg" />
+        <img width="70px" height="70px" style="margin-right: 15px;" src="assets/c_original.svg" />
     </p>
 </div>
 
